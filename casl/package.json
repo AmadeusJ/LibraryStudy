@@ -1,0 +1,14 @@
+{
+  "name": "casl",
+  "version": "1.0.0",
+  "description": "casl research",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@casl/ability": "^5.2.2"
+  }
+}
